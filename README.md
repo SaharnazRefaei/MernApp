@@ -1,4 +1,4 @@
-<p>✨ Travelgram </p>
+<p>✨ MERN APP </p>
 <p>✳️A website for Sharing information about astonishing tourist places all over the world!✳️</p>
 
 <p>📍 Built using ReactJS (Components, Hooks, Routing, frontend User Input Validation), NodeJS, ExpressJS, and MongoDB (REST API, Routes, Controllers,
